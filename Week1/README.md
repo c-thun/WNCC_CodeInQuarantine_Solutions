@@ -16,7 +16,7 @@ Python is one of the widely used programming languages in the world. Python is a
 
 ## Tasks
 
-### 1. Weather Data
+### [1. Weather Data](https://github.com/c-thun/WNCC_CodeInQuarantine_Solutions/blob/master/Week1/weatherData.py)
 
 The first task is to report the average temperature and humidity of some cities over a week.
 
@@ -46,7 +46,7 @@ Check [this](http://wncc-iitb.org/wiki/index.php/Web_Scraping) out for an overvi
 >Frankfurt   16        81%
 
 
-### 2. Fetch My Rank
+### [2. Fetch My Rank](https://github.com/c-thun/WNCC_CodeInQuarantine_Solutions/blob/master/Week1/fetchRank.py)
 
 A Physics Professor has just uploaded a sheet with marks of the 1000 freshmen who did his course. All the students want to know their ranks so that they can predict their grade. It’s very tedious to search for a given roll number and calculate their rank. Let's automate this!
 
@@ -114,8 +114,7 @@ Example: BFS for the example graph will be 0 2 1 3 4
 Refer to these sites to learn more about BFS - [HackerEarth](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/tutorial/), [TutorialsPoint](https://www.tutorialspoint.com/data_structures_algorithms/breadth_first_traversal.htm)
 
 
-### 4. Telegram Bot
+### [4. Telegram Bot](https://github.com/c-thun/ThreadCleanerBot)
 
 If you have joined our [Telegram](https://t.me/joinchat/Go8oWRUqXsSufvCA75qMUQ) group, surely, you too would have been annoyed by the repeated notifications/messages of new people joining the group. So we give you the task of coding a Telegram Bot that automatically removes messages stating that a new person has joined the group, given it has admin privilages. Going through [this official documentation](https://python-telegram-bot.readthedocs.io/en/stable/) will certainly be useful. You might find this well documented [website](https://github.com/python-telegram-bot/python-telegram-bot/wiki/Code-snippets) more friendly and easy to understand if you are unable to comprehend the official documentation.
 
-The code for the Telegram Bot may be found [here](https://github.com/c-thun/ThreadCleanerBot)
