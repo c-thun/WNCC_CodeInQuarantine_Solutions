@@ -58,7 +58,7 @@ The script should do something like this -
 [Here](./marksheet.csv) is the `.csv` file containing the required data.
 
 
-### 3. Understanding Graphs
+### [3. Understanding Graphs](https://github.com/c-thun/WNCC_CodeInQuarantine_Solutions/blob/master/Week1/graphAlgo.py)
 
 A graph is a pictorial representation of a set of objects where some pairs of objects are connected by links. The interconnected objects are represented by points termed as vertices, and the links that connect the vertices are called edges.
 In a graph each of the edges can have a weight and an arrow depicting the direction.
