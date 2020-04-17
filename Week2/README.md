@@ -38,7 +38,7 @@ ___Note:__ Most of the problems have editorials or tutorials , also you could re
 
     - __[Solution:](https://github.com/c-thun/WNCC_CodeInQuarantine_Solutions/blob/master/Week2/watsonPermutations.cpp)__ [Watson asks Does Permutation Exist](https://www.codechef.com/problems/PERMEXIS)
     - __[Solution:](https://github.com/c-thun/WNCC_CodeInQuarantine_Solutions/blob/master/Week2/prefixNum.cpp)__ [Prefix Numbers](https://www.codechef.com/GWR18ROL/problems/PREFNUM)
-    - __Problem:__ [Red Blue Green Balls (keteki)](https://www.codechef.com/problems/QM10P5A)
+    - __[Solution:](https://github.com/c-thun/WNCC_CodeInQuarantine_Solutions/blob/master/Week2/rbgBalls.cpp)__ [Red Blue Green Balls (keteki)](https://www.codechef.com/problems/QM10P5A)
     - __Problem:__ [Game of Bullets](https://www.codechef.com/problems/BULLETS) (Read about [Nim game](https://plus.maths.org/content/play-win-nim))
     - __Problem:__ [Black And White Cells](https://www.codechef.com/LTIME30/problems/BWCELL)
 
